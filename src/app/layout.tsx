@@ -13,20 +13,20 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Blue's Experiments - Curated Web3 & Domain Collection",
-  description: "Discover Blue's handpicked collection of innovative Web3 projects, domain extensions, and digital experiments. From .ai to .zero, explore the future of the internet through carefully selected domains and platforms.",
-  keywords: "Web3, domains, experiments, blockchain, crypto, digital innovation, domain extensions, Blue",
+  title: "Blue's Experiments - Innovative Web3 Products A-Z",
+  description: "Discover Blue's handpicked collection of innovative Web3 products and digital experiments. From .ai to .zero, explore unique and fun sites curated with love by CrestalBlue and co. Each alphabetically organized by their creative domain extensions.",
+  keywords: "Web3, blockchain, crypto, digital innovation, experiments, products, CrestalBlue, innovative sites, Blue",
   authors: [{ name: "Blue" }],
   openGraph: {
-    title: "Blue's Experiments - Web3 Domain Collection",
-    description: "Explore Blue's curated collection of Web3 domains and digital experiments",
+    title: "Blue's Experiments - Innovative Web3 Products A-Z",
+    description: "Explore Blue's curated collection of innovative Web3 products and digital experiments, alphabetically organized from .ai to .zero",
     type: "website",
     locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
     title: "Blue's Experiments",
-    description: "Curated Web3 & Domain Collection",
+    description: "Innovative Web3 Products A-Z",
     creator: "@crestalblue_",
   },
 };
