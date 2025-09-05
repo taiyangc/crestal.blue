@@ -4,7 +4,7 @@ A curated collection of innovative Web3 products and digital experiments, alphab
 
 ## 🚀 Live Site
 
-Visit the live site at: [https://username.github.io/crestal.blue](https://username.github.io/crestal.blue)
+Visit the live site at: [https://crestal.blue](https://crestal.blue)
 
 ## 🛠️ Development
 
@@ -52,7 +52,7 @@ This site automatically deploys to GitHub Pages when you push to the `main` bran
    - Export static files
    - Deploy to GitHub Pages
 
-3. **Access your site** at `https://yourusername.github.io/crestal.blue`
+3. **Access your site** at `https://crestal.blue` (custom domain) or `https://yourusername.github.io/crestal.blue` (GitHub Pages subdirectory)
 
 ## 🎨 Features
 
