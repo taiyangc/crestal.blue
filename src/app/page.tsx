@@ -59,6 +59,18 @@ export default function Home() {
             Blue&apos;s Experiments
           </h1>
           
+          {/* Highlight Box */}
+          <div className="mb-6">
+            <a
+              href="https://taskon.xyz/quest/88367638"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-gradient-to-r from-yellow-400 via-orange-400 to-pink-400 text-white px-6 py-3 rounded-lg font-semibold text-sm md:text-base shadow-lg hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300 hover:scale-105"
+            >
+              I see you have made it here. Follow me for a small free gift.
+            </a>
+          </div>
+          
           {/* Social Icons */}
           <div className="flex justify-center mb-8">
             <a
